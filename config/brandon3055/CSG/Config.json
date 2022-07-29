@@ -1,0 +1,7 @@
+{
+  "inventory": {
+    "0:8": "minecraft:cooked_beef,64",
+    "0:0": "akashictome:tome,1,0,{\"akashictome:data\":{tconstruct:{id:\"tconstruct:book\",Count:1b,Damage:0s,tag:{\"akashictome:definedMod\":\"tconstruct\"}},openblocks:{id:\"openblocks:info_book\",Count:1b,Damage:0s,tag:{\"akashictome:definedMod\":\"openblocks\"}},conarm:{id:\"conarm:book\",Count:1b,Damage:0s,tag:{\"akashictome:definedMod\":\"conarm\"}},chococraftplus:{id:\"chococraftplus:chocopedia\",Count:1b,Damage:0s,tag:{\"CCP|CP\":16,\"akashictome:definedMod\":\"chococraftplus\"}}}}",
+    "0:7": "minecraft:torch,64"
+  }
+}
